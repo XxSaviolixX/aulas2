@@ -1,6 +1,3 @@
-# API de Estoque de Produtos
-
-Projeto desenvolvido para a atividade avaliativa de Back-end.
 
 ## Como rodar o projeto
 1. Extraia os arquivos.
